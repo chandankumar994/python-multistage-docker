@@ -24,7 +24,7 @@ Modern application deployments often involve containerizing both the backend and
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/multistage-flask-app.git
+   git clone https://github.com/chandankumar994/multistage-flask-app.git
    cd multistage-flask-app
    ```
 
